@@ -18,10 +18,10 @@ Description="AUG LMG T features a 4x power optic, great for engaging point targe
 ItemName="AUG LMG-T"
 
 [AUGLMGTAmmo]
-ItemName="5.56x45mm"
+ItemName="5.56x45мм"
 
 [AUGLMGTAmmoPickup]
-PickupMessage="5.56x45mm"
+PickupMessage="5.56x45мм"
 
 [AUGLMGTPickup]
 ItemName="AUG LMG-T"
@@ -29,7 +29,7 @@ ItemShortName="AUG LMG-T"
 PickupMessage="You got the AUG LMG-T"
 
 [DamTypeAug9M]
-DeathString="%k killed %o (Aug 9mm)."
+DeathString="%k killed %o (Aug 9мм)."
 
 [DamTypeAUGLMGT]
 DeathString="%k killed %o (AUG LMG-T)."
@@ -47,10 +47,10 @@ FemaleSuicide="%o shot herself in the foot."
 MaleSuicide="%o shot himself in the foot."
 
 [FNMinimiAmmo]
-ItemName="5.56mm bullets"
+ItemName="5.56мм bullets"
 
 [FNMinimiAmmoPickup]
-PickupMessage="Rounds 5.56mm"
+PickupMessage="Rounds 5.56мм"
 
 [FNMinimiLMG]
 Description="FN Minimi light machine gun. Has large ammo capacity but long reload times."
@@ -62,10 +62,10 @@ ItemShortName="FN Minimi"
 PickupMessage="You got the FN Minimi Light Machine Gun"
 
 [L2A3SterlingAmmo]
-ItemName="9mm Incendiary Ammo"
+ItemName="9мм Incendiary Ammo"
 
 [L2A3SterlingAmmoPickup]
-PickupMessage="9mm Incendiary Ammo"
+PickupMessage="9мм Incendiary Ammo"
 
 [L2A3SterlingPickup]
 ItemName="L2A3 Sterling"
