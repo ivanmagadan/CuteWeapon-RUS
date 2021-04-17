@@ -5,16 +5,16 @@ ItemName="9мм патроны"
 PickupMessage="Патроны 9мм"
 
 [Aug9MMedicGun]
-Description="AUG 9mm sub machine gun. Modified to fire healing darts. Can fire more darts with a single charge."
-ItemName="AUG9M Medic Gun"
+Description="Пистолет-пулемет AUG 9мм. Модифицирован для стрельбы целебными дротиками. Может стрелять большим количеством дротиков с одного заряда."
+ItemName="Мед. ПП AUG9M"
 
 [AUG9MPickup]
-ItemName="AUG9M Medic Gun"
+ItemName="Мед. ПП AUG9M"
 ItemShortName="AUG9M"
-PickupMessage="You got the AUG9M Medic Gun"
+PickupMessage="Вы получили Мед. ПП AUG9M"
 
 [AUGLMGT]
-Description="AUG LMG T features a 4x power optic, great for engaging point targets."
+Description="AUG LMG T оснащен оптикой с 4-кратным увеличением, отлично подходящей для поражения точечных целей."
 ItemName="AUG LMG-T"
 
 [AUGLMGTAmmo]
@@ -26,66 +26,66 @@ PickupMessage="5.56x45мм"
 [AUGLMGTPickup]
 ItemName="AUG LMG-T"
 ItemShortName="AUG LMG-T"
-PickupMessage="You got the AUG LMG-T"
+PickupMessage="Вы получили AUG LMG-T"
 
 [DamTypeAug9M]
-DeathString="%k killed %o (Aug 9мм)."
+DeathString="Игрок %k убил игрока %o (Aug 9мм)."
 
 [DamTypeAUGLMGT]
-DeathString="%k killed %o (AUG LMG-T)."
-FemaleSuicide="%o shot herself in the foot."
-MaleSuicide="%o shot himself in the foot."
+DeathString="Игрок %k убил игрока %o (AUG LMG-T)."
+FemaleSuicide="%o выстрелила себе в ногу."
+MaleSuicide="%o выстрелил себе в ногу."
 
 [DamTypeFNMinimi]
-DeathString="%k killed %o (FN Minimi)."
-FemaleSuicide="%o shot herself in the foot."
-MaleSuicide="%o shot himself in the foot."
+DeathString="Игрок %k убил игрока %o (FN Minimi)."
+FemaleSuicide="%o выстрелила себе в ногу."
+MaleSuicide="%o выстрелил себе в ногу."
 
 [DamTypeNo5MkIEnfield]
-DeathString="%k killed %o (No.5 Mk I Enfield)."
-FemaleSuicide="%o shot herself in the foot."
-MaleSuicide="%o shot himself in the foot."
+DeathString="Игрок %k убил игрока %o (No.5 Mk I Enfield)."
+FemaleSuicide="%o выстрелила себе в ногу."
+MaleSuicide="%o выстрелил себе в ногу."
 
 [FNMinimiAmmo]
-ItemName="5.56мм bullets"
+ItemName="Пули 5.56мм"
 
 [FNMinimiAmmoPickup]
-PickupMessage="Rounds 5.56мм"
+PickupMessage="Патроны 5.56мм"
 
 [FNMinimiLMG]
-Description="FN Minimi light machine gun. Has large ammo capacity but long reload times."
+Description="Ручной пулемет FN Minimi. Имеет большой боезапас, но длительное время перезарядки."
 ItemName="FN Minimi LMG"
 
 [FNMinimiPickup]
 ItemName="FN Minimi"
 ItemShortName="FN Minimi"
-PickupMessage="You got the FN Minimi Light Machine Gun"
+PickupMessage="Вы получили ручной пулемет FN Minimi"
 
 [L2A3SterlingAmmo]
-ItemName="9мм Incendiary Ammo"
+ItemName="9мм зажигательные боеприпасы"
 
 [L2A3SterlingAmmoPickup]
-PickupMessage="9мм Incendiary Ammo"
+PickupMessage="9мм зажигательные боеприпасы"
 
 [L2A3SterlingPickup]
 ItemName="L2A3 Sterling"
 ItemShortName="Sterling"
-PickupMessage="You got the Sterling SMG"
+PickupMessage="Вы получили Sterling SMG"
 
 [L2A3SterlingSMG]
-Description="A British submachine gun. Fires special incendiary rounds."
+Description="Британский пистолет-пулемет. Стреляет специальными зажигательными патронами."
 ItemName="L2A3 Sterling"
 
 [No5MkIEnfieldAmmo]
-ItemName=".303 Rounds"
+ItemName="Патроны .303"
 
 [No5MkIEnfieldAmmoPickup]
-PickupMessage="You got .303 rounds"
+PickupMessage="Вы получили патроны .303"
 
 [No5MkIEnfieldPickup]
 ItemName="No.5 Mk. I Enfield"
 ItemShortName="No.5 Mk I Enfield"
-PickupMessage="You got the No. 5 Mk I Enfield Rifle"
+PickupMessage="Вы получили No. 5 Mk I Enfield Rifle"
 
 [No5MkIEnfieldRifle]
 Description="The Rifle No. 5 Mk I, was a shorter and lighter derivative of the British Lee Enfield No. 4 Mk I. Also informally known as the "
