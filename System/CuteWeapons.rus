@@ -85,7 +85,7 @@ PickupMessage="Вы получили патроны .303"
 [No5MkIEnfieldPickup]
 ItemName="No.5 Mk I Enfield"
 ItemShortName="No.5 Mk I Enfield"
-PickupMessage="Вы получили Винтовку No. 5 Mk I Enfield"
+PickupMessage="Вы получили Винтовку No.5 Mk I Enfield"
 
 [No5MkIEnfieldRifle]
 Description="Винтовка No.5 Mk I, была более короткой и легкой производной от Британской Lee Enfield No.4 Mk I. Также неофициально известна как 'Карабин Джунглей'."
