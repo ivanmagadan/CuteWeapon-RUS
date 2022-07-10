@@ -29,7 +29,7 @@ ItemShortName="AUG LMG-T"
 PickupMessage="Вы получили AUG LMG-T"
 
 [DamTypeAug9M]
-DeathString="Игрок %k убил игрока %o (Aug 9мм)."
+DeathString="Игрок %k убил игрока %o (AUG 9мм)."
 
 [DamTypeAUGLMGT]
 DeathString="Игрок %k убил игрока %o (AUG LMG-T)."
@@ -53,7 +53,7 @@ ItemName="Пули 5.56мм"
 PickupMessage="Патроны 5.56мм"
 
 [FNMinimiLMG]
-Description="Ручной пулемет FN Minimi. Имеет большой боезапас, но длительное время перезарядки."
+Description="Легкий (ручной) пулемет FN Minimi. Обладает большим боезапасом, но долгой перезарядкой."
 ItemName="FN Minimi LMG"
 
 [FNMinimiPickup]
@@ -83,11 +83,11 @@ ItemName="Патроны .303"
 PickupMessage="Вы получили патроны .303"
 
 [No5MkIEnfieldPickup]
-ItemName="No.5 Mk. I Enfield"
+ItemName="No.5 Mk I Enfield"
 ItemShortName="No.5 Mk I Enfield"
-PickupMessage="Вы получили No. 5 Mk I Enfield Rifle"
+PickupMessage="Вы получили Винтовку No. 5 Mk I Enfield"
 
 [No5MkIEnfieldRifle]
-Description="The Rifle No. 5 Mk I, was a shorter and lighter derivative of the British Lee Enfield No. 4 Mk I. Also informally known as the 'Jungle Carbine'."
-ItemName="No.5 Mk.I Enfield"
+Description="Винтовка No.5 Mk I, была более короткой и легкой производной от Британской Lee Enfield No.4 Mk I. Также неофициально известна как 'Карабин Джунглей'."
+ItemName="No.5 Mk I Enfield"
 
